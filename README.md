@@ -1,4 +1,4 @@
-# PayChangu payment plugin for aMember Pro
+# PayChangu plugin for aMember Pro
 
 Single-file plugin that connects [aMember Pro](https://www.amember.com/) to [PayChangu](https://paychangu.com/) Standard Checkout: hosted payment page, webhooks (IPN), and server-side transaction verification.
 
